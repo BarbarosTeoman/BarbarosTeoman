@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on some small frontend projects from frontend mentor.<br>🌱 I’m currently learning css preprocessors, and more javascript frameworks in frontend, and I am also improving myself on Cortex M0 assembly.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/barbaros-teoman/) 
 
